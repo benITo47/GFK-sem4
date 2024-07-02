@@ -12,5 +12,6 @@ Task5 - 3D geometry visualised in 2D :
 <img width="1005" alt="lB5" src="https://github.com/benITo47/GFK-sem4/assets/116185412/ce8ab3a5-246f-4216-b709-088517465101">
 
 Task 7 - data presentation : 
+
 <img width="527" alt="LAB7" src="https://github.com/benITo47/GFK-sem4/assets/116185412/db3de945-1322-4420-ac18-f5212ca4a72f">
 
